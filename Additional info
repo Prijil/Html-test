@@ -4,3 +4,6 @@
 
 <!--target="_blank" means it will open the link in new tab-->
 <br><a href="https://www.google.com"target="_blank"> site link </a> <br> 
+
+<!--How to put your link on a sentence-->
+<br><p>Checkout my Youtube Channel <a href="https://www.youtube.com/channel/UCSW9LkgHk5y2zT0FAjasvgA">Prijil Thomas</a></p><br>
