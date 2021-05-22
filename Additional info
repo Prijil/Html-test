@@ -17,3 +17,8 @@
 
 
 <br><input style="text" placeholder="Username">
+
+
+<form action="/url-where-you-want-to-submit-form-data">
+<input style="text" placeholder="Username">
+</form>
