@@ -21,4 +21,5 @@
 
 <form action="/url-where-you-want-to-submit-form-data">
 <input style="text" placeholder="Username">
+<button type="submit">Submit</button>
 </form>
