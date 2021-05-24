@@ -32,10 +32,11 @@
 
 <!-- Multiple choice -->
 <form>
-<label for="">
-<input id="" type="radio" name="yes-no">
+<label for="yes">
+<input id="yes" type="radio" name="yes-no">Yes
 </label>
-<label for="">
-<input id="" type="radio" name="yes-no">
+<label for="no">
+<input id="no" type="radio" name="yes-no">No
 </label>
+</form>
 
