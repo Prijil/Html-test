@@ -29,3 +29,13 @@
 <input style="text" required placeholder="Username">
 <button type="submit">Submit</button>
 </form>
+
+<!-- Multiple choice -->
+<form>
+<label for="">
+<input id="" type="radio" name="yes-no">
+</label>
+<label for="">
+<input id="" type="radio" name="yes-no">
+</label>
+
