@@ -46,8 +46,17 @@
     <label for="caring"><input id="caring" type="checkbox" name="personality">Caring</label>
 
 
+<!-- Without value you will not know whck option had been selected by the user -->
 <label for="indoor"><input id="indoor" value="indoor" type="radio" name="indoor-outdoor"> Indoor</label>
     <label for="outdoor"><input id="outdoor" value="outdoor" type="radio" name="indoor-outdoor"> Outdoor</label><br>
     <label for="loving"><input id="loving" value="loving" type="checkbox" name="personality"> Loving</label>
     <label for="lazy"><input id="lazy" value="lazy" type="checkbox" name="personality"> Lazy</label>
     <label for="energetic"><input id="energetic" value="energetic" type="checkbox" name="personality"> Energetic</label><br>
+    
+
+<!-- checked is used to already select the option -->
+ <label for="indoor"><input id="indoor" value="indoor" type="radio" name="indoor-outdoor" checked> Indoor</label>
+    <label for="outdoor"><input id="outdoor" value="outdoor" type="radio" name="indoor-outdoor"> Outdoor</label><br>
+    <label for="loving"><input id="loving" value="loving" type="checkbox" name="personality" checked> Loving</label>
+    <label for="lazy"><input id="lazy" value="lazy" type="checkbox" name="personality"> Lazy</label>
+    <label for="energetic"><input id="energetic" value="energetic" type="checkbox" name="personality"> Energetic</label><br> 
