@@ -38,5 +38,10 @@
 <label for="no">
 <input id="no" type="radio" name="yes-no">No
 </label>
-</form>
+</form><br>
+
+<!-- Multiple Answers (checkout) -->
+<label for="dangerous"><input id="dangerous" type="checkbox" name="personality">Dangerous</label>
+    <label for="loving"><input id="loving" type="checkbox" name="personality">Loving</label>
+    <label for="caring"><input id="caring" type="checkbox" name="personality">Caring</label>
 
