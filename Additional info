@@ -60,3 +60,6 @@
     <label for="loving"><input id="loving" value="loving" type="checkbox" name="personality" checked> Loving</label>
     <label for="lazy"><input id="lazy" value="lazy" type="checkbox" name="personality"> Lazy</label>
     <label for="energetic"><input id="energetic" value="energetic" type="checkbox" name="personality"> Energetic</label><br> 
+    
+<!-- tooltip -->
+<p title="I'm a tooltip">This is a paragraph.</p>
