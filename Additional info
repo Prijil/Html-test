@@ -127,3 +127,6 @@ Use text-align for text alignment -->
 
 <!-- The HTML <del> element defines text that has been deleted from a document. Browsers will usually strike a line through deleted text -->
 <p>My favorite color is <del>blue</del> red.</p>
+
+<!-- The HTML <ins> element defines a text that has been inserted into a document. Browsers will usually underline inserted text and <u> element also underlines -->
+<p>My <u>favorite</u> color is <del>blue</del> <ins>red</ins>.</p>
