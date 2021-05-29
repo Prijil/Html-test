@@ -120,3 +120,7 @@ Use text-align for text alignment -->
 <h1 style="text-align:center">Hello</h1>
 <h2 style="text-align:right">Hello</h2>
 <p style="text-align:left">Hello</p>
+
+
+<!-- mark element defines text that should be marked or highlighted -->
+<p><small>This is some smaller text.</small></p>
