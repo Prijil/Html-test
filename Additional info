@@ -124,3 +124,6 @@ Use text-align for text alignment -->
 
 <!-- mark element defines text that should be marked or highlighted -->
 <p><small>This is some smaller text.</small></p>
+
+<!-- The HTML <del> element defines text that has been deleted from a document. Browsers will usually strike a line through deleted text -->
+<p>My favorite color is <del>blue</del> red.</p>
