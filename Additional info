@@ -109,3 +109,7 @@
 
 <h1 style="font-family:verdana;">This is a heading</h1>
 <p style="font-family:courier;">This is a paragraph.</p>
+
+<h1 style="text-align:center">Hello</h1>
+<h2 style="text-align:right">Hello</h2>
+<p style="text-align:left">Hello</p>
