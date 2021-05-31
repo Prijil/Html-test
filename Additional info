@@ -121,8 +121,12 @@ Use text-align for text alignment -->
 <h2 style="text-align:right">Hello</h2>
 <p style="text-align:left">Hello</p>
 
+<h1 style="border:2px solid Tomato;">Hello World</h1>
+
 
 <!-- mark element defines text that should be marked or highlighted -->
+
+
 <p><small>This is some smaller text.</small></p>
 
 <!-- The HTML <del> element defines text that has been deleted from a document. Browsers will usually strike a line through deleted text -->
@@ -130,3 +134,4 @@ Use text-align for text alignment -->
 
 <!-- The HTML <ins> element defines a text that has been inserted into a document. Browsers will usually underline inserted text and <u> element also underlines -->
 <p>My <u>favorite</u> color is <del>blue</del> <ins>red</ins>.</p>
+
