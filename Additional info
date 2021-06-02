@@ -135,3 +135,13 @@ Use text-align for text alignment -->
 <!-- The HTML <ins> element defines a text that has been inserted into a document. Browsers will usually underline inserted text and <u> element also underlines -->
 <p>My <u>favorite</u> color is <del>blue</del> <ins>red</ins>.</p>
 
+<!-- The target attribute can have one of the following values:
+
+_self - Default. Opens the document in the same window/tab as it was clicked
+_blank - Opens the document in a new window or tab
+_parent - Opens the document in the parent frame
+_top - Opens the document in the full body of the window -->
+
+<a href="https://www.w3schools.com/" target="">Visit W3Schools!</a>
+
+
