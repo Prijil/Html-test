@@ -144,4 +144,5 @@ _top - Opens the document in the full body of the window -->
 
 <a href="https://www.w3schools.com/" target="">Visit W3Schools!</a>
 
-
+<!-- Use mailto: inside the href attribute to create a link that opens the user's email program (to let them send a new email) -->
+<a href="mailto:someone@example.com">Send email</a>
