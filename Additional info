@@ -149,3 +149,20 @@ _top - Opens the document in the full body of the window -->
 
 <!-- button as a link -->
 <button onclick="document.location='default.asp'">HTML Tutorial</button>
+
+
+<!-- Link styled as a button -->
+<style>
+ a:link, a:visited{
+  background-color: #FF4500;
+  color: white;
+  padding: 30px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: Inline-block; }
+  
+ a:hover, a:active{
+   background-color: red;
+   color: white;}
+</style>
+
