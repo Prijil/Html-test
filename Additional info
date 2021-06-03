@@ -166,3 +166,7 @@ _top - Opens the document in the full body of the window -->
    color: white;}
 </style>
 
+<!-- Bookmark to a location in same page -->
+<p><a href="#C4">Jump to Chapter 4</a></p>
+<h2 id="C4">Chapter 4</h2>
+<p>This chapter explains ba bla bla</p>
