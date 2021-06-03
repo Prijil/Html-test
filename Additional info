@@ -170,3 +170,6 @@ _top - Opens the document in the full body of the window -->
 <p><a href="#C4">Jump to Chapter 4</a></p>
 <h2 id="C4">Chapter 4</h2>
 <p>This chapter explains ba bla bla</p>
+
+<!-- add a link to a bookmark on another page -->
+<a href="html_demo.html#C4">Jump to Chapter 4</a>
