@@ -173,3 +173,12 @@ _top - Opens the document in the full body of the window -->
 
 <!-- add a link to a bookmark on another page -->
 <a href="html_demo.html#C4">Jump to Chapter 4</a>
+
+<!-- The HTML <map> tag defines an image map. An image map is an image with clickable areas. The areas are defined with one or more <area> tags. -->
+<!-- https://www.image-map.net -->
+<img src="workplace.jpg" alt="Workplace" usemap="#workmap">
+<map name="workmap">
+ <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+ <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+ <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
+</map>
