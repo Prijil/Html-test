@@ -183,8 +183,12 @@ _top - Opens the document in the full body of the window -->
  <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
 </map>
 
+<!-- To add a background image on an HTML element, use the HTML style attribute and the CSS background-image property -->
+<div style="background-image: url('img_girl.jpg');">
 
+<!-- To add a background image on entire page and covering it without strecting the image -->
 body{background-image:url('https://img.xcitefun.net/users/2014/07/359035,xcitefun-sunset-beach-9.jpg');
    background-repeat:no-repeat;
    background-attachment:fixed;
    background-size:cover;}
+
