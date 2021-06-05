@@ -182,3 +182,9 @@ _top - Opens the document in the full body of the window -->
  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
  <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
 </map>
+
+
+body{background-image:url('https://img.xcitefun.net/users/2014/07/359035,xcitefun-sunset-beach-9.jpg');
+   background-repeat:no-repeat;
+   background-attachment:fixed;
+   background-size:cover;}
