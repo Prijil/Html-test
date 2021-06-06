@@ -214,12 +214,17 @@ table, th, td {
 th, td {
   padding: 15px;
 }
+table {
+  border-spacing: 5px;
+}
 </style>
 </head>
 <body>
 
 <h1>Table With Border</h1>
 <h2>Cellpadding</h2>
+<h3>Border Spacing</h3>
+<p>Border spacing specifies the space between the cells.</p>
 <p>Cell padding specifies the space between the cell content and its borders.</p>
 <p>Use the CSS border property to add a border to the table.</p>
 
