@@ -250,3 +250,7 @@ table {
     <td>80</td>
   </tr>
 </table>
+
+
+<!--To make a cell span more than one column, use the colspan attribute: -->
+<th colspan="2">Telephone</th>
