@@ -260,3 +260,7 @@ table {
     <th rowspan="2">Telephone:</th>
     <td>55577854</td>
   </tr>
+
+<!-- To add a caption to a table, use the <caption> tag: -->
+<table>
+<caption>Monthly savings</caption></table>
