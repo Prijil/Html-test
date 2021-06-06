@@ -264,3 +264,10 @@ table {
 <!-- To add a caption to a table, use the <caption> tag: -->
 <table>
 <caption>Monthly savings</caption></table>
+
+<!-- To define a special style for one particular table, add an id attribute to the table: -->
+#t01 {
+  width: 100%;
+  background-color: #f1f1c1;
+}
+<table id="t01">
