@@ -272,7 +272,8 @@ table {
 }
 <table id="t01">
 
+<!-- div tag always takes the full space available and always starts on a new line -->
+<div style="border: 1px solid black">Hello World</div>
 
-<div>Hello World</div>
-
-<span>Hello World</span>
+<!-- span tag does not start on a new line and only takes up as much width as necessary -->
+<p>This is an inline span <span style="border: 1px solid black">Hello World</span> element inside a paragraph.</p>
