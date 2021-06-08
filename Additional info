@@ -277,3 +277,12 @@ table {
 
 <!-- span tag does not start on a new line and only takes up as much width as necessary -->
 <p>This is an inline span <span style="border: 1px solid black">Hello World</span> element inside a paragraph.</p>
+
+
+<!-- Classes allow you to use the same CSS styles on multiple HTML elements. -->
+<style>
+  .red-text {
+    color: red;
+  }
+</style>
+<h2 class="red-text">CatPhotoApp</h2>
