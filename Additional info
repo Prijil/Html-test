@@ -286,3 +286,13 @@ table {
   }
 </style>
 <h2 class="red-text">CatPhotoApp</h2>
+
+
+<!-- https://fonts.google.com/ -->
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+h2{
+    font-family:Lobster;
+  }
+</style>
+
