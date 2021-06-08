@@ -288,7 +288,7 @@ table {
 <h2 class="red-text">CatPhotoApp</h2>
 
 
-<!-- https://fonts.google.com/ -->
+<!-- Get different types of fonts from : https://fonts.google.com/ -->
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
 h2{
