@@ -296,3 +296,7 @@ h2{
   }
 </style>
 
+<!-- The HTML <iframe> tag specifies an inline frame.
+An inline frame is used to embed another document within the current HTML document. -->
+
+<iframe src="demo_iframe.htm" style="border:none;" title="Iframe Example"></iframe>
